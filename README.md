@@ -1,6 +1,8 @@
 # 🏏 Hand Cricket Game - Flutter + Rive
 
-A simple and interactive Hand Cricket game built using Flutter and Rive animations!
+Remeber you golden childhood days when you played 'Hand Cricket'?
+This is a simple and interactive Hand Cricket game built using Flutter and Rive animations!
+A fast-paced Flutter + Rive game where you bat and bowl in a 6-ball hand cricket challenge, with real-time decision timers, dynamic overlays, and smooth animations!
 
 ### 🎮 Gameplay Overview
 
