@@ -23,7 +23,7 @@ class _HandAnimationWidgetState extends State<HandAnimationWidget> {
 
   Future<void> _loadRiveFile() async {
     try {
-      final data = await rootBundle.load('../../assets/riv/hand.riv');
+      final data = await rootBundle.load('assets/riv/hand.riv');
       final file = RiveFile.import(data);
       final artboard = file.mainArtboard;
 

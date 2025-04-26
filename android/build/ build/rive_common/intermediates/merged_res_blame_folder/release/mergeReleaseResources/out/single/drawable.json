@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/drawable/notification_bg.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/drawable/notification_bg_low.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/drawable/notification_icon_background.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/drawable/notification_tile_bg.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/drawable/notification_tile_bg.xml"
+    }
+]

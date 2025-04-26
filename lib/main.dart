@@ -42,7 +42,7 @@ class HomeScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Image.asset(
-                '../../assets/images/batting.png',
+                ' assets/images/batting.png',
                 height: 150,
               ), // Add your logo
               const SizedBox(height: 40),

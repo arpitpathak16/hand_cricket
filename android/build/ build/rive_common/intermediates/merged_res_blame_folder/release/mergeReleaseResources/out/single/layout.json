@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout/notification_template_icon_group.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout/notification_action.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout/notification_action.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout/notification_template_custom_big.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout/custom_dialog.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout/notification_template_part_chronometer.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout/notification_action_tombstone.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout/notification_template_part_time.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout/ime_base_split_test_activity.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout/ime_secondary_split_test_activity.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout/ime_secondary_split_test_activity.xml"
+    }
+]

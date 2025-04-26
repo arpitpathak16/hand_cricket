@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout-v21/notification_template_icon_group.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout-v21/notification_template_custom_big.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout-v21/notification_action_tombstone.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/layout-v21/notification_action.xml",
+        "source": "app.rive.rive.rive_common-core-1.13.1-17:/layout-v21/notification_action.xml"
+    }
+]

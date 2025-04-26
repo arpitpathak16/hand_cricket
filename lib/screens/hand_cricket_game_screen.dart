@@ -72,7 +72,7 @@ class _HandCricketGameScreenState extends State<HandCricketGameScreen> {
   }
 
   void _loadRiveAssets() async {
-    final playerData = await rootBundle.load('../../assets/riv/hand.riv');
+    final playerData = await rootBundle.load('assets/riv/hand.riv');
     final playerFile = RiveFile.import(playerData);
     final playerArtboard = playerFile.mainArtboard;
     final playerController = StateMachineController.fromArtboard(
@@ -87,7 +87,7 @@ class _HandCricketGameScreenState extends State<HandCricketGameScreen> {
       _playerHandInput?.value = 0;
     }
 
-    final computerData = await rootBundle.load('../../assets/riv/hand.riv');
+    final computerData = await rootBundle.load('assets/riv/hand.riv');
     final computerFile = RiveFile.import(computerData);
     final computerArtboard = computerFile.mainArtboard;
     final computerController = StateMachineController.fromArtboard(
@@ -193,7 +193,7 @@ class _HandCricketGameScreenState extends State<HandCricketGameScreen> {
 
   void _showOverlayImage(String imageName) {
     setState(() {
-      overlayImagePath = '../../assets/overlays/$imageName.png';
+      overlayImagePath = 'assets/overlays/$imageName.png';
       overlayOpacity = 0.0;
     });
 
@@ -263,7 +263,7 @@ class _HandCricketGameScreenState extends State<HandCricketGameScreen> {
           Container(
             decoration: const BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('../../assets/images/background.png'),
+                image: AssetImage('assets/images/background.png'),
                 fit: BoxFit.cover,
               ),
             ),
@@ -307,7 +307,6 @@ class _HandCricketGameScreenState extends State<HandCricketGameScreen> {
 
   Widget _buildPlayerInfoCard(String name, String score, bool isActive) {
     return SizedBox(
-      // 👈 NEW: give each card a bounded size
       width: 150, // You can calculate dynamically too
       child: LayoutBuilder(
         builder: (context, constraints) {
@@ -473,7 +472,7 @@ class _HandCricketGameScreenState extends State<HandCricketGameScreen> {
                   ),
                   onPressed: () => _playTurn(index + 1),
                   child: Image.asset(
-                    '../../assets/images/${_getImageName(index)}.png',
+                    'assets/images/${_getImageName(index)}.png',
                     fit: BoxFit.contain,
                   ),
                 );

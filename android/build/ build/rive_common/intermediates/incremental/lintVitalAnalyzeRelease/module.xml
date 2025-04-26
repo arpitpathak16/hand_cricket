@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\aparp\AppData\Local\Pub\Cache\hosted\pub.dev\rive_common-0.2.8\android"
+    name=":rive_common"
+    type="LIBRARY"
+    maven="app.rive.rive:rive_common:1.0-SNAPSHOT"
+    agpVersion="8.7.0"
+    buildFolder="C:\Users\aparp\OneDrive - International Institute of Information Technology\Desktop\Not usual ideas\cricket_app\android\build\ build\rive_common"
+    bootClassPath="C:\Users\aparp\AppData\Local\Android\Sdk\platforms\android-31\android.jar;C:\Users\aparp\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

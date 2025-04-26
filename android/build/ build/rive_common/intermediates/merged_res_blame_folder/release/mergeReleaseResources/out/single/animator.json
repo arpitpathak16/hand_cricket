@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/animator/fragment_fade_exit.xml",
+        "source": "app.rive.rive.rive_common-fragment-1.7.1-15:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/animator/fragment_open_enter.xml",
+        "source": "app.rive.rive.rive_common-fragment-1.7.1-15:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/animator/fragment_close_enter.xml",
+        "source": "app.rive.rive.rive_common-fragment-1.7.1-15:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/animator/fragment_open_exit.xml",
+        "source": "app.rive.rive.rive_common-fragment-1.7.1-15:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/animator/fragment_close_exit.xml",
+        "source": "app.rive.rive.rive_common-fragment-1.7.1-15:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "app.rive.rive.rive_common-release-25:/animator/fragment_fade_enter.xml",
+        "source": "app.rive.rive.rive_common-fragment-1.7.1-15:/animator/fragment_fade_enter.xml"
+    }
+]

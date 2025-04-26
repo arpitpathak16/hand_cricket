@@ -57,15 +57,9 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/riv/hand.riv
-    - assets/
-    - assets/overlays/batting.png
-    - assets/overlays/sixer.png
-    - assets/overlays/out.png
-    - assets/overlays/you_won.png
-    - assets/overlays/game_bowl.png
-    - assets/overlays/computer_won.png
-    - assets/overlays/draw.png
+    - assets/images/
+    - assets/overlays/
+    - assets/riv/
 
   # To add assets to your application, add an assets section, like this:
   # assets:

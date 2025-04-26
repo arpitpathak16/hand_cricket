@@ -7,6 +7,86 @@ gradle-wrapper.jar
 GeneratedPluginRegistrant.java
 .cxx/
 
+# Flutter related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.metadata
+
+# Build outputs
+build/
+android/app/build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+web/.dart_tool/
+web/.idea/
+web/build/
+
+# Android specific
+/android/.gradle/
+/android/captures/
+/android/.idea/
+android/key.properties
+android/local.properties
+
+# iOS specific
+ios/Pods/
+ios/.generated/
+ios/.symlinks/
+ios/.flutter-plugins/
+/ios/Runner.xcodeproj/project.xcworkspace/
+/ios/Runner.xcworkspace/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/Generated.xcconfig
+ios/.dart_tool/
+
+# macOS specific
+macos/.DS_Store
+macos/build/
+macos/Flutter/ephemeral/
+
+# Windows specific
+windows/.vs/
+windows/.idea/
+windows/build/
+
+# Web specific
+web/.dart_tool/
+web/build/
+
+# Linux specific
+linux/build/
+linux/.idea/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.iml
+
+# Crash logs and temp files
+*.log
+*.tmp
+
+# Others
+.sconsign.dblite
+coverage/
+*.lock
+
+# Packages
+pubspec.lock
+
+# Google services (optional, depending on if you integrate firebase)
+google-services.json
+GoogleService-Info.plist
+
+
 # Remember to never publicly share your keystore.
 # See https://flutter.dev/to/reference-keystore
 key.properties
